@@ -125,14 +125,7 @@ Average Confidence: 35.2%
 
 ---
 
-## 🔮 Future Improvements
 
-* 🎯 Bounding box visualization
-* 🎥 Advanced video analysis
-* ☁️ Cloud deployment support
-* 📄 Export reports (PDF)
-
----
 
 ## 👨‍💻 Author
 
